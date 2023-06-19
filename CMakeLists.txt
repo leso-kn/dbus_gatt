@@ -27,7 +27,7 @@ endif ()
 include_directories(
     include
     ${GLIB_INCLUDE_DIRS}
-    ${DBUS_INCLUDE_DIRS}
+    ${DBus_INCLUDE_DIRS}
     ${GIO_INCLUDE_DIR}
     ${Boost_INCLUDE_DIRS}
 )
