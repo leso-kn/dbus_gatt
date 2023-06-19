@@ -23,6 +23,7 @@
 #ifndef DBUS_GATT_DBUS_METHOD_H_
 #define DBUS_GATT_DBUS_METHOD_H_
 
+#include <cstdint>
 #include <functional>
 #include <iostream>
 #include <string>

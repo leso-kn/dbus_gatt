@@ -24,6 +24,7 @@
 #define DBUS_GATT_SRC_DBUS_GATT_TYPES_H_
 
 #include <cstddef>
+#include <cstdint>
 #include <functional>
 #include <variant>
 

@@ -24,6 +24,7 @@
 #include <cstddef>
 #include <cstring>
 #include <iostream>
+#include <thread>
 #include <vector>
 
 #include "dbus_gatt/dbus_gatt.h"
